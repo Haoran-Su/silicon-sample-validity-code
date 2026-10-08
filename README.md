@@ -10,7 +10,7 @@ This repository contains the analysis code and model-call runner for the study o
 - `environment/`: software and package notes.
 
 ## Data
-The analysis data are deposited separately in the OSF data package. Update `DG_COMBINED_META` and `DG_OUTPUT_DIR` in `R/00_config.R`, or set the corresponding environment variables, before running the scripts.
+The analysis data are deposited separately in the OSF data package: https://osf.io/zg9ys/. Update `DG_COMBINED_META` and `DG_OUTPUT_DIR` in `R/00_config.R`, or set the corresponding environment variables, before running the scripts.
 
 ## Model-call notes
 - GPT-5.5 used the OpenAI API snapshot `gpt-5_5-2026-04-23`.
