@@ -1,0 +1,1 @@
+R session information captured from the analysis environment.\nR version: 4.5.1\nImportant packages: metafor, clubSandwich, sandwich, dplyr, tidyr, mice, brms, rstan, cmdstanr, posterior, bayesplot\nSee analysis scripts for package loading statements.\n

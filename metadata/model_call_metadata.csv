@@ -1,0 +1,6 @@
+﻿model,provider,api_model_id_or_snapshot,access_period,temperature,top_p,max_completion_tokens,notes
+GPT-4o,OpenAI,gpt-4o,2026-08-06 to 2026-08-09 (result-file creation),1.0,1.0,2048,Dated snapshot not logged
+GPT-5.5,OpenAI,gpt-5_5-2026-04-23,2026-07-21 to 2026-07-24 (result-file creation),1.0,1.0,2048,Confirmed snapshot
+o1,OpenAI,o1,2026-08-08 to 2026-08-13 (result-file creation),1.0,1.0,2048,Dated snapshot not logged
+DeepSeek-R1,SiliconCloud,deepseek-ai/DeepSeek-R1,2026-07-07 to 2026-07-09 (result-file creation),1.0,1.0,2048,Dated revision not logged
+DeepSeek-V3,SiliconCloud,deepseek-ai/DeepSeek-V3,2026-07-07 to 2026-07-09 (result-file creation),1.0,1.0,2048,Dated revision not logged

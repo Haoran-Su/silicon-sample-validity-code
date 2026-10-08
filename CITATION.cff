@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and repository."
+title: "Silicon-Sample Validity Analysis Code"
+type: software
+authors:
+  - family-names: Su
+    given-names: Haoran
+version: 1.0.0
+license: MIT
+repository-code: "TO_BE_ADDED"

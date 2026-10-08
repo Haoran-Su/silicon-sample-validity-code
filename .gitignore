@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+*.pyc
+outputs/
+data/
+*.log
